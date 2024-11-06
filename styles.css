@@ -1,3 +1,9 @@
 p {
-    color: hsl(275, 91%, 37%);
+    color: rgb(154, 17, 203);
+}
+h1 {
+    color: rgb(124, 235, 33);
+}
+body {
+    background-color: black;
 }
